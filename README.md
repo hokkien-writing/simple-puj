@@ -129,7 +129,7 @@
 | ieh  | Ieh  | ieʔ  | ie̍h藥  tie̍h着  chieh借  hie̍h頁              |
 |      |      |      |                                             |
 | uah  | Uah  | uaʔ  | ua̍h活  tuah喝  kuah割  hua̍h伐               |
-| ueh  | Ueh  | ueʔ  | u̍eh劃  chueh啜  sueh說  kueh郭  hueh血      |
+| ueh  | Ueh  | ueʔ  | u̍eh劃  tshueh啜  sueh說  kueh郭  hueh血      |
 
 ### 雙元音(乙)
 
@@ -181,7 +181,7 @@
 | ok   | Ok   | ok̚   | ok屋  mo̍k睦  tok築  kok國  hok福      |
 | iak  | Iak  | iak̚  | iak約/躍/龠  chiak爵  siak屑  lia̍k略  |
 | iok  | Iok  | iok̚  | io̍k育/慾  thiok畜  kiok鞠  hiok旭     |
-| uak  | Uak  | uak̚  | suak朔/塑/溯  chuak濁/蜀  kuak廓      |
+| uak  | Uak  | uak̚  | suak朔/塑/溯  tsuak濁/蜀  kuak廓      |
 
 ### 三元音
 
