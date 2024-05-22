@@ -181,7 +181,7 @@
 | ok   | Ok   | ok̚   | ok屋  mo̍k睦  tok築  kok國  hok福      |
 | iak  | Iak  | iak̚  | iak約/躍/龠  chiak爵  siak屑  lia̍k略  |
 | iok  | Iok  | iok̚  | io̍k育/慾  thiok畜  kiok鞠  hiok旭     |
-| uak  | Uak  | uak̚  | suak朔/塑/溯  tsuak濁/蜀  kuak廓      |
+| uak  | Uak  | uak̚  | suak朔/塑/溯  tsua̍k濁/蜀  kuak廓      |
 
 ### 三元音
 
